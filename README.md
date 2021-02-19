@@ -10,13 +10,19 @@ As a senior engineer working on an e-commerce platform, I want my platform to us
 
 - When I review the way the app extracts state data from the store, I can find that the app uses Redux instead of the Context API. When I review the way the app dispatches actions, I can find that the app uses Redux instead of the Context API.
 
-## Deployed Application
+## Final Deployed Application
 
 https://limitless-lowlands-88983.herokuapp.com/
 
 ## GitHub URL
 
-https://github.com/lylylong/shop-shop-redux-store.git
+https://github.com/lylylong/shop-shop-redux-store.git\
+This repo just for codes display, more process please see below
+
+## Working process
+
+This repo has the working process but has error on the Heroku deployed app\
+https://github.com/lylylong/shop-shop.git
 
 ## Screenshots
 
@@ -41,15 +47,3 @@ The app is also using:
 - Apollo Server
 - concurrently
 - JSON Web Tokens
-
-## Author
-
-- lylylong
-
-## Contact
-
-View my GitHub page:
-https://github.com/lylylong
-
-If you have any questions, please send me emails:
-lylylong@gmail.com
