@@ -16,8 +16,7 @@ https://limitless-lowlands-88983.herokuapp.com/
 
 ## GitHub URL
 
-https://github.com/lylylong/shop-shop-redux-store.git\
-This repo just for codes display, more process please see below
+https://github.com/lylylong/shop-shop-redux-store.git
 
 ## Working process
 
